@@ -3,42 +3,100 @@
     "name": "Jollof Rice",
     "description": "A classic West African rice dish cooked with tomatoes and spices.",
     "image": "assets/images/jollof-rice.jpg",
-    "instructions": "1. Cook rice. 2. Prepare sauce with tomatoes, onions, and spices. 3. Mix rice and sauce together. 4. Serve hot."
+    "instructions": "1. Cook rice. 2. Prepare sauce with tomatoes, onions, and spices. 3. Mix rice and sauce together. 4. Serve hot.",
+    "ingredients": [
+      "Rice",
+      "Tomatoes",
+      "Onions",
+      "Bell peppers",
+      "Vegetable oil",
+      "Spices"
+    ]
   },
   {
     "name": "Fried Rice",
     "description": "A savory dish of rice stir-fried with vegetables and seasonings.",
     "image": "assets/images/fried-rice.jpeg",
-    "instructions": "1. Cook rice. 2. Stir-fry vegetables and protein of choice. 3. Add rice and soy sauce. 4. Mix and serve."
+    "instructions": "1. Cook rice. 2. Stir-fry vegetables and protein of choice. 3. Add rice and soy sauce. 4. Mix and serve.",
+    "ingredients": [
+      "Rice",
+      "Carrots",
+      "Peas",
+      "Soy sauce",
+      "Chicken or shrimp",
+      "Eggs",
+      "Vegetable oil"
+    ]
   },
   {
     "name": "Yam and Egg Sauce",
     "description": "Boiled yam served with a delicious egg and tomato sauce.",
     "image": "assets/images/yam-egg-sauce.jpg",
-    "instructions": "1. Boil yam until soft. 2. Prepare egg sauce with tomatoes, onions, and eggs. 3. Serve yam with egg sauce on top."
+    "instructions": "1. Boil yam until soft. 2. Prepare egg sauce with tomatoes, onions, and eggs. 3. Serve yam with egg sauce on top.",
+    "ingredients": [
+      "Yam",
+      "Eggs",
+      "Tomatoes",
+      "Onions",
+      "Vegetable oil",
+      "Salt",
+      "Pepper"
+    ]
   },
   {
     "name": "Pizza",
     "description": "A delicious baked flatbread typically topped with tomato sauce, cheese, and various toppings.",
     "image": "assets/images/pizza.jpg",
-    "instructions": "1. Prepare dough and stretch into a flat shape. 2. Add tomato sauce, cheese, and toppings. 3. Bake in a hot oven until golden."
+    "instructions": "1. Prepare dough and stretch into a flat shape. 2. Add tomato sauce, cheese, and toppings. 3. Bake in a hot oven until golden.",
+    "ingredients": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Pepperoni or vegetables",
+      "Olive oil"
+    ]
   },
   {
     "name": "Burger",
     "description": "A savory sandwich consisting of a cooked patty of ground meat, placed inside a sliced bread roll or bun.",
     "image": "assets/images/burger.jpeg",
-    "instructions": "1. Cook the meat patty. 2. Toast the buns. 3. Assemble with lettuce, tomato, and sauce. 4. Serve with fries."
+    "instructions": "1. Cook the meat patty. 2. Toast the buns. 3. Assemble with lettuce, tomato, and sauce. 4. Serve with fries.",
+    "ingredients": [
+      "Burger buns",
+      "Ground beef or chicken patty",
+      "Lettuce",
+      "Tomatoes",
+      "Cheese",
+      "Ketchup",
+      "Mayonnaise"
+    ]
   },
   {
     "name": "Potato Salad",
     "description": "A creamy and tangy salad made with boiled potatoes, mayonnaise, and seasonings.",
     "image": "assets/images/potato-salad.jpg",
-    "instructions": "1. Boil potatoes and cut into cubes. 2. Mix with mayonnaise, mustard, and seasonings. 3. Chill before serving."
+    "instructions": "1. Boil potatoes and cut into cubes. 2. Mix with mayonnaise, mustard, and seasonings. 3. Chill before serving.",
+    "ingredients": [
+      "Potatoes",
+      "Mayonnaise",
+      "Mustard",
+      "Salt",
+      "Pepper",
+      "Chives or parsley"
+    ]
   },
   {
     "name": "Stir-Fried Noodles",
     "description": "A flavorful dish of noodles stir-fried with vegetables and protein in a savory sauce.",
     "image": "assets/images/stir-fried noodles.jpg",
-    "instructions": "1. Cook noodles according to package instructions. 2. Stir-fry vegetables and protein. 3. Add noodles and soy sauce. 4. Mix and serve."
+    "instructions": "1. Cook noodles according to package instructions. 2. Stir-fry vegetables and protein. 3. Add noodles and soy sauce. 4. Mix and serve.",
+    "ingredients": [
+      "Noodles",
+      "Soy sauce",
+      "Vegetables (carrots, bell peppers, broccoli)",
+      "Chicken, shrimp, or tofu",
+      "Garlic",
+      "Ginger"
+    ]
   }
 ]
