@@ -27,13 +27,16 @@ An interactive and visually appealing online recipe book showcasing a variety of
 
 ## Recipes Included
 
-1. Jollof Rice
-2. Fried Rice
-3. Yam and Egg Sauce
-4. Stir-Fried noodles
-5. Pizza
-6. Burger
-7. Potato-salad
+1. Burger
+2. Edikan Ikong
+3. Fisherman Soup
+4. Fried Rice
+5. Jollof Rice
+6. Pizza
+7. Potato Salad
+8. Scrambled eggs, Bacon and Toast
+9. Shrimp Linguine Pasta
+10. Yam and Egg Sauce
 
 ## How to Run the App
 
