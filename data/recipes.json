@@ -3,56 +3,58 @@
     "name": "Jollof Rice",
     "description": "A classic West African rice dish cooked with tomatoes and spices.",
     "image": "assets/images/jollof-rice.jpg",
-    "instructions": "1. Cook rice. 2. Prepare sauce with tomatoes, onions, and spices. 3. Mix rice and sauce together. 4. Serve hot.",
+    "instructions": "1. Rinse the rice thoroughly and set aside. 2. Heat vegetable oil in a pot and sauté diced onions until translucent. 3. Add blended tomatoes, bell peppers, and spices (thyme, curry powder, salt) to the pot. 4. Cook the sauce on medium heat until it thickens. 5. Stir in chicken or vegetable stock, then add the rice. 6. Cover and simmer on low heat until the rice is cooked and has absorbed the flavors. 7. Stir gently to combine the rice and sauce evenly. 8. Serve hot with fried plantains, chicken, or fish.",
     "ingredients": [
-      "Rice",
-      "Tomatoes",
-      "Onions",
-      "Bell peppers",
-      "Vegetable oil",
-      "Spices"
+      "2 cups of rice",
+      "4 medium tomatoes",
+      "1 large onion",
+      "2 red bell peppers",
+      "1 cup of chicken or vegetable stock",
+      "2 tbsp of vegetable oil",
+      "1 tsp of thyme",
+      "1 tsp of curry powder",
+      "Salt to taste"
     ]
   },
   {
     "name": "Fried Rice",
     "description": "A savory dish of rice stir-fried with vegetables and seasonings.",
     "image": "assets/images/fried-rice.jpeg",
-    "instructions": "1. Cook rice. 2. Stir-fry vegetables and protein of choice. 3. Add rice and soy sauce. 4. Mix and serve.",
+    "instructions": "1. Cook the rice ahead of time and let it cool to prevent clumping. 2. Heat vegetable oil in a large pan or wok. 3. Sauté diced carrots, peas, and other vegetables of choice until tender. 4. Push the vegetables to one side of the pan and scramble eggs in the empty space. 5. Add cooked chicken or shrimp and stir to combine. 6. Mix in the rice and drizzle soy sauce over the mixture. 7. Stir-fry everything together until evenly coated and heated through. 8. Serve hot as a main dish or side.",
     "ingredients": [
-      "Rice",
-      "Carrots",
-      "Peas",
-      "Soy sauce",
-      "Chicken or shrimp",
-      "Eggs",
-      "Vegetable oil"
+      "3 cups of cooked rice",
+      "1 cup of diced carrots and peas",
+      "2 tbsp of soy sauce",
+      "2 eggs",
+      "1 cup of cooked chicken or shrimp",
+      "2 tbsp of vegetable oil",
+      "Salt and pepper to taste"
     ]
   },
   {
     "name": "Yam and Egg Sauce",
     "description": "Boiled yam served with a delicious egg and tomato sauce.",
     "image": "assets/images/yam-egg-sauce.jpg",
-    "instructions": "1. Boil yam until soft. 2. Prepare egg sauce with tomatoes, onions, and eggs. 3. Serve yam with egg sauce on top.",
+    "instructions": "1. Peel and cut the yam into slices, then boil in salted water until soft. 2. In a separate pan, heat vegetable oil and sauté diced onions. 3. Add chopped tomatoes and season with salt and pepper. Cook until the tomatoes break down. 4. Crack eggs into the pan and stir gently to create a scrambled consistency. 5. Cook until the eggs are fully set and well mixed with the tomato sauce. 6. Serve the boiled yam alongside the egg sauce.",
     "ingredients": [
-      "Yam",
-      "Eggs",
-      "Tomatoes",
-      "Onions",
-      "Vegetable oil",
-      "Salt",
-      "Pepper"
+      "1 medium yam",
+      "3 eggs",
+      "3 medium tomatoes",
+      "1 large onion",
+      "2 tbsp of vegetable oil",
+      "Salt and pepper to taste"
     ]
   },
   {
     "name": "Pizza",
     "description": "A delicious baked flatbread typically topped with tomato sauce, cheese, and various toppings.",
     "image": "assets/images/pizza.jpg",
-    "instructions": "1. Prepare dough and stretch into a flat shape. 2. Add tomato sauce, cheese, and toppings. 3. Bake in a hot oven until golden.",
+    "instructions": "1. Preheat the oven to 450°F (230°C). 2. Roll out the pizza dough on a floured surface into your desired shape. 3. Spread tomato sauce evenly over the dough. 4. Sprinkle shredded mozzarella cheese generously on top. 5. Add your favorite toppings such as pepperoni, mushrooms, or bell peppers. 6. Drizzle a little olive oil over the toppings for extra flavor. 7. Bake in the preheated oven for 10-15 minutes or until the crust is golden and the cheese is melted. 8. Slice and serve immediately.",
     "ingredients": [
       "Pizza dough",
-      "Tomato sauce",
-      "Mozzarella cheese",
-      "Pepperoni or vegetables",
+      "1 cup of tomato sauce",
+      "2 cups of mozzarella cheese",
+      "Assorted toppings (pepperoni, vegetables, etc.)",
       "Olive oil"
     ]
   },
@@ -60,13 +62,13 @@
     "name": "Burger",
     "description": "A savory sandwich consisting of a cooked patty of ground meat, placed inside a sliced bread roll or bun.",
     "image": "assets/images/burger.jpeg",
-    "instructions": "1. Cook the meat patty. 2. Toast the buns. 3. Assemble with lettuce, tomato, and sauce. 4. Serve with fries.",
+    "instructions": "1. Season ground beef or chicken with salt, pepper, and any desired spices. Form into patties. 2. Heat a skillet or grill over medium-high heat and cook the patties for 4-5 minutes per side or until done. 3. Toast the burger buns lightly on the grill or in the oven. 4. Assemble the burger by layering lettuce, tomato slices, the cooked patty, and a slice of cheese on the bottom bun. 5. Spread ketchup, mayonnaise, or mustard on the top bun and place it over the fillings. 6. Serve immediately with fries or a side salad.",
     "ingredients": [
       "Burger buns",
-      "Ground beef or chicken patty",
+      "1 lb of ground beef or chicken",
       "Lettuce",
       "Tomatoes",
-      "Cheese",
+      "Cheese slices",
       "Ketchup",
       "Mayonnaise"
     ]
@@ -75,28 +77,27 @@
     "name": "Potato Salad",
     "description": "A creamy and tangy salad made with boiled potatoes, mayonnaise, and seasonings.",
     "image": "assets/images/potato-salad.jpg",
-    "instructions": "1. Boil potatoes and cut into cubes. 2. Mix with mayonnaise, mustard, and seasonings. 3. Chill before serving.",
+    "instructions": "1. Peel and dice potatoes into bite-sized cubes, then boil until tender. 2. In a large bowl, combine mayonnaise, mustard, salt, pepper, and chopped parsley or chives. 3. Gently fold the boiled potatoes into the mixture until evenly coated. 4. Cover and refrigerate for at least an hour before serving to allow the flavors to blend. 5. Serve cold as a side dish or appetizer.",
     "ingredients": [
-      "Potatoes",
-      "Mayonnaise",
-      "Mustard",
-      "Salt",
-      "Pepper",
-      "Chives or parsley"
+      "4 medium potatoes",
+      "1/2 cup of mayonnaise",
+      "1 tbsp of mustard",
+      "Salt and pepper to taste",
+      "Chives or parsley for garnish"
     ]
   },
   {
     "name": "Stir-Fried Noodles",
     "description": "A flavorful dish of noodles stir-fried with vegetables and protein in a savory sauce.",
     "image": "assets/images/stir-fried noodles.jpg",
-    "instructions": "1. Cook noodles according to package instructions. 2. Stir-fry vegetables and protein. 3. Add noodles and soy sauce. 4. Mix and serve.",
+    "instructions": "1. Cook the noodles according to package instructions and drain. 2. Heat oil in a large pan or wok and sauté minced garlic and ginger until fragrant. 3. Add sliced vegetables like carrots, bell peppers, and broccoli, and stir-fry until tender. 4. Stir in cooked chicken, shrimp, or tofu and cook for another 2 minutes. 5. Add the cooked noodles and soy sauce to the pan. Toss everything together until well combined. 6. Serve immediately with a sprinkle of sesame seeds or green onions.",
     "ingredients": [
-      "Noodles",
-      "Soy sauce",
-      "Vegetables (carrots, bell peppers, broccoli)",
-      "Chicken, shrimp, or tofu",
-      "Garlic",
-      "Ginger"
+      "2 cups of noodles",
+      "2 tbsp of soy sauce",
+      "1 cup of mixed vegetables (carrots, bell peppers, broccoli)",
+      "1 cup of cooked chicken, shrimp, or tofu",
+      "2 cloves of garlic",
+      "1 tsp of minced ginger"
     ]
   }
 ]

@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
   yearSpan.textContent = new Date().getFullYear(); // Display current year in footer
 
   // Fetch recipes from JSON
-  fetch("recipes.json")
+  fetch("data/recipes.json")
     .then((response) => response.json())
     .then((recipes) => {
       loadingMessage.style.display = "none"; // Hide loading message
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const recipeInstructions = document.createElement("p");
       recipeInstructions.classList.add("instructions");
-      recipeInstructions.textContent = `Instructions: ${recipe.instructions}`;
+      recipeInstructions.textContent = `Instructions: ${recipe.instructions}`; // Fixed here
 
       recipeCard.appendChild(recipeImage);
       recipeCard.appendChild(recipeTitle);
