@@ -9,16 +9,21 @@
   <body>
     <header>
       <h1>Online Recipe Book</h1>
-      <div id="searchContainer">
-        <input id="searchBar" type="text" placeholder="Search recipes..." />
-        <button id="searchButton">Search</button>
-      </div>
+      <form id="searchContainer">
+        <input
+          id="searchBar"
+          type="text"
+          placeholder="Search recipes..."
+          aria-label="Search recipes"
+        />
+        <button id="searchButton" type="submit">Search</button>
+      </form>
     </header>
     <main>
-      <div id="recipesContainer">
+      <section id="recipesContainer" aria-live="polite">
         <!-- Recipes will be dynamically inserted here by app.js -->
-      </div>
-      <div id="loadingMessage">Loading recipes...</div>
+      </section>
+      <p id="loadingMessage" role="alert">Loading recipes...</p>
     </main>
     <footer>
       <p>&copy; <span id="year"></span> Online Recipe Book</p>

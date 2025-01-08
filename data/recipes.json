@@ -3,7 +3,6 @@
     "name": "Jollof Rice",
     "description": "A classic West African rice dish cooked with tomatoes and spices.",
     "image": "assets/images/jollof-rice.jpg",
-    "instructions": "1. Rinse the rice thoroughly and set aside. 2. Heat vegetable oil in a pot and sauté diced onions until translucent. 3. Add blended tomatoes, bell peppers, and spices (thyme, curry powder, salt) to the pot. 4. Cook the sauce on medium heat until it thickens. 5. Stir in chicken or vegetable stock, then add the rice. 6. Cover and simmer on low heat until the rice is cooked and has absorbed the flavors. 7. Stir gently to combine the rice and sauce evenly. 8. Serve hot with fried plantains, chicken, or fish.",
     "ingredients": [
       "2 cups of rice",
       "4 medium tomatoes",
@@ -14,13 +13,13 @@
       "1 tsp of thyme",
       "1 tsp of curry powder",
       "Salt to taste"
-    ]
+    ],
+    "instructions": "1. Rinse the rice thoroughly and set aside. 2. Heat vegetable oil in a pot and sauté diced onions until translucent. 3. Add blended tomatoes, bell peppers, and spices (thyme, curry powder, salt) to the pot. 4. Cook the sauce on medium heat until it thickens. 5. Stir in chicken or vegetable stock, then add the rice. 6. Cover and simmer on low heat until the rice is cooked and has absorbed the flavors. 7. Stir gently to combine the rice and sauce evenly. 8. Serve hot with fried plantains, chicken, or fish."
   },
   {
     "name": "Fried Rice",
     "description": "A savory dish of rice stir-fried with vegetables and seasonings.",
     "image": "assets/images/fried-rice.jpeg",
-    "instructions": "1. Cook the rice ahead of time and let it cool to prevent clumping. 2. Heat vegetable oil in a large pan or wok. 3. Sauté diced carrots, peas, and other vegetables of choice until tender. 4. Push the vegetables to one side of the pan and scramble eggs in the empty space. 5. Add cooked chicken or shrimp and stir to combine. 6. Mix in the rice and drizzle soy sauce over the mixture. 7. Stir-fry everything together until evenly coated and heated through. 8. Serve hot as a main dish or side.",
     "ingredients": [
       "3 cups of cooked rice",
       "1 cup of diced carrots and peas",
@@ -29,13 +28,13 @@
       "1 cup of cooked chicken or shrimp",
       "2 tbsp of vegetable oil",
       "Salt and pepper to taste"
-    ]
+    ],
+    "instructions": "1. Cook the rice ahead of time and let it cool to prevent clumping. 2. Heat vegetable oil in a large pan or wok. 3. Sauté diced carrots, peas, and other vegetables of choice until tender. 4. Push the vegetables to one side of the pan and scramble eggs in the empty space. 5. Add cooked chicken or shrimp and stir to combine. 6. Mix in the rice and drizzle soy sauce over the mixture. 7. Stir-fry everything together until evenly coated and heated through. 8. Serve hot as a main dish or side."
   },
   {
     "name": "Yam and Egg Sauce",
     "description": "Boiled yam served with a delicious egg and tomato sauce.",
     "image": "assets/images/yam-egg-sauce.jpg",
-    "instructions": "1. Peel and cut the yam into slices, then boil in salted water until soft. 2. In a separate pan, heat vegetable oil and sauté diced onions. 3. Add chopped tomatoes and season with salt and pepper. Cook until the tomatoes break down. 4. Crack eggs into the pan and stir gently to create a scrambled consistency. 5. Cook until the eggs are fully set and well mixed with the tomato sauce. 6. Serve the boiled yam alongside the egg sauce.",
     "ingredients": [
       "1 medium yam",
       "3 eggs",
@@ -43,26 +42,26 @@
       "1 large onion",
       "2 tbsp of vegetable oil",
       "Salt and pepper to taste"
-    ]
+    ],
+    "instructions": "1. Peel and cut the yam into slices, then boil in salted water until soft. 2. In a separate pan, heat vegetable oil and sauté diced onions. 3. Add chopped tomatoes and season with salt and pepper. Cook until the tomatoes break down. 4. Crack eggs into the pan and stir gently to create a scrambled consistency. 5. Cook until the eggs are fully set and well mixed with the tomato sauce. 6. Serve the boiled yam alongside the egg sauce."
   },
   {
     "name": "Pizza",
     "description": "A delicious baked flatbread typically topped with tomato sauce, cheese, and various toppings.",
     "image": "assets/images/pizza.jpg",
-    "instructions": "1. Preheat the oven to 450°F (230°C). 2. Roll out the pizza dough on a floured surface into your desired shape. 3. Spread tomato sauce evenly over the dough. 4. Sprinkle shredded mozzarella cheese generously on top. 5. Add your favorite toppings such as pepperoni, mushrooms, or bell peppers. 6. Drizzle a little olive oil over the toppings for extra flavor. 7. Bake in the preheated oven for 10-15 minutes or until the crust is golden and the cheese is melted. 8. Slice and serve immediately.",
     "ingredients": [
       "Pizza dough",
       "1 cup of tomato sauce",
       "2 cups of mozzarella cheese",
       "Assorted toppings (pepperoni, vegetables, etc.)",
       "Olive oil"
-    ]
+    ],
+    "instructions": "1. Preheat the oven to 450°F (230°C). 2. Roll out the pizza dough on a floured surface into your desired shape. 3. Spread tomato sauce evenly over the dough. 4. Sprinkle shredded mozzarella cheese generously on top. 5. Add your favorite toppings such as pepperoni, mushrooms, or bell peppers. 6. Drizzle a little olive oil over the toppings for extra flavor. 7. Bake in the preheated oven for 10-15 minutes or until the crust is golden and the cheese is melted. 8. Slice and serve immediately."
   },
   {
     "name": "Burger",
     "description": "A savory sandwich consisting of a cooked patty of ground meat, placed inside a sliced bread roll or bun.",
     "image": "assets/images/burger.jpeg",
-    "instructions": "1. Season ground beef or chicken with salt, pepper, and any desired spices. Form into patties. 2. Heat a skillet or grill over medium-high heat and cook the patties for 4-5 minutes per side or until done. 3. Toast the burger buns lightly on the grill or in the oven. 4. Assemble the burger by layering lettuce, tomato slices, the cooked patty, and a slice of cheese on the bottom bun. 5. Spread ketchup, mayonnaise, or mustard on the top bun and place it over the fillings. 6. Serve immediately with fries or a side salad.",
     "ingredients": [
       "Burger buns",
       "1 lb of ground beef or chicken",
@@ -71,26 +70,26 @@
       "Cheese slices",
       "Ketchup",
       "Mayonnaise"
-    ]
+    ],
+    "instructions": "1. Season ground beef or chicken with salt, pepper, and any desired spices. Form into patties. 2. Heat a skillet or grill over medium-high heat and cook the patties for 4-5 minutes per side or until done. 3. Toast the burger buns lightly on the grill or in the oven. 4. Assemble the burger by layering lettuce, tomato slices, the cooked patty, and a slice of cheese on the bottom bun. 5. Spread ketchup, mayonnaise, or mustard on the top bun and place it over the fillings. 6. Serve immediately with fries or a side salad."
   },
   {
     "name": "Potato Salad",
     "description": "A creamy and tangy salad made with boiled potatoes, mayonnaise, and seasonings.",
     "image": "assets/images/potato-salad.jpg",
-    "instructions": "1. Peel and dice potatoes into bite-sized cubes, then boil until tender. 2. In a large bowl, combine mayonnaise, mustard, salt, pepper, and chopped parsley or chives. 3. Gently fold the boiled potatoes into the mixture until evenly coated. 4. Cover and refrigerate for at least an hour before serving to allow the flavors to blend. 5. Serve cold as a side dish or appetizer.",
     "ingredients": [
       "4 medium potatoes",
       "1/2 cup of mayonnaise",
       "1 tbsp of mustard",
       "Salt and pepper to taste",
       "Chives or parsley for garnish"
-    ]
+    ],
+    "instructions": "1. Peel and dice potatoes into bite-sized cubes, then boil until tender. 2. In a large bowl, combine mayonnaise, mustard, salt, pepper, and chopped parsley or chives. 3. Gently fold the boiled potatoes into the mixture until evenly coated. 4. Cover and refrigerate for at least an hour before serving to allow the flavors to blend. 5. Serve cold as a side dish or appetizer."
   },
   {
     "name": "Stir-Fried Noodles",
     "description": "A flavorful dish of noodles stir-fried with vegetables and protein in a savory sauce.",
     "image": "assets/images/stir-fried noodles.jpg",
-    "instructions": "1. Cook the noodles according to package instructions and drain. 2. Heat oil in a large pan or wok and sauté minced garlic and ginger until fragrant. 3. Add sliced vegetables like carrots, bell peppers, and broccoli, and stir-fry until tender. 4. Stir in cooked chicken, shrimp, or tofu and cook for another 2 minutes. 5. Add the cooked noodles and soy sauce to the pan. Toss everything together until well combined. 6. Serve immediately with a sprinkle of sesame seeds or green onions.",
     "ingredients": [
       "2 cups of noodles",
       "2 tbsp of soy sauce",
@@ -98,6 +97,99 @@
       "1 cup of cooked chicken, shrimp, or tofu",
       "2 cloves of garlic",
       "1 tsp of minced ginger"
+    ],
+    "instructions": "1. Cook the noodles according to package instructions and drain. 2. Heat oil in a large pan or wok and sauté minced garlic and ginger until fragrant. 3. Add sliced vegetables like carrots, bell peppers, and broccoli, and stir-fry until tender. 4. Stir in cooked chicken, shrimp, or tofu and cook for another 2 minutes. 5. Add the cooked noodles and soy sauce to the pan. Toss everything together until well combined. 6. Serve immediately with a sprinkle of sesame seeds or green onions."
+  },
+  {
+    "name": "Shrimp Linguine Pasta",
+    "description": "Shrimp in creamy garlic butter sauce over linguine.",
+    "image": "assets/images/shrimp linguine pasta.jpg",
+    "ingredients": [
+      "250g linguine",
+      "300g shrimp",
+      "3 tbsp olive oil",
+      "3 garlic cloves",
+      "1 cup heavy cream",
+      "1/2 cup Parmesan",
+      "1/2 tsp chili flakes",
+      "1 tbsp parsley",
+      "Salt & pepper"
+    ],
+    "instructions": [
+      "Cook pasta, save 1 cup pasta water.",
+      "Sauté shrimp in olive oil, set aside.",
+      "Sauté garlic, add cream, simmer.",
+      "Stir in Parmesan, chili flakes, shrimp, and pasta.",
+      "Garnish with parsley and serve."
+    ]
+  },
+  {
+    "name": "Scrambled Eggs with Bacon and Toast",
+    "description": "Fluffy eggs, crispy bacon, and buttered toast.",
+    "image": "assets/images/scrambled eggs with bacon and toast.jpg",
+    "ingredients": [
+      "4 eggs",
+      "4 bacon slices",
+      "2 bread slices",
+      "1 tbsp butter",
+      "2 tbsp milk",
+      "Salt & pepper"
+    ],
+    "instructions": [
+      "Cook bacon, set aside.",
+      "Whisk eggs, milk, salt, and pepper.",
+      "Scramble eggs in butter, remove when slightly runny.",
+      "Toast bread and butter.",
+      "Serve eggs with bacon and toast."
+    ]
+  },
+  {
+    "name": "Edikang Ikong Soup",
+    "description": "Nigerian vegetable soup with meats and seafood.",
+    "image": "assets/images/Edikan ikong.jpeg",
+    "ingredients": [
+      "500g pumpkin leaves",
+      "300g waterleaf",
+      "500g assorted meats",
+      "200g dried fish",
+      "200g stockfish",
+      "1/2 cup crayfish",
+      "3 tbsp palm oil",
+      "1 onion",
+      "2 scotch bonnet peppers",
+      "2 seasoning cubes",
+      "Salt"
+    ],
+    "instructions": [
+      "Cook meats and fish with seasoning until tender.",
+      "Sauté onions, peppers, crayfish in palm oil.",
+      "Add meats, stock, waterleaf, and pumpkin leaves.",
+      "Simmer, adjust seasoning, and serve with pounded yam, fufu, or eba."
+    ]
+  },
+  {
+    "name": "Fisherman Soup",
+    "description": "Spicy seafood soup with fish, prawns, and crab.",
+    "image": "assets/images/Fisherman soup.jpeg",
+    "ingredients": [
+      "500g fish",
+      "300g prawns",
+      "200g crab",
+      "2 tbsp ground crayfish",
+      "2 tbsp palm oil",
+      "2 scotch bonnet peppers",
+      "1 onion",
+      "1/2 tsp uziza seeds",
+      "1/2 cup waterleaf",
+      "2 seasoning cubes",
+      "Salt"
+    ],
+    "instructions": [
+      "Season and set aside fish.",
+      "Sauté onions, peppers in palm oil.",
+      "Add water, crayfish, uziza seeds, and seasoning, boil.",
+      "Add fish and prawns, cook until tender.",
+      "Add waterleaf, simmer, and serve with yam, rice, or swallow."
     ]
   }
 ]
