@@ -23,6 +23,14 @@
       <section id="recipesContainer" aria-live="polite">
         <!-- Recipes will be dynamically inserted here by app.js -->
       </section>
+      <section id="recipeDetail" style="display: none">
+        <button id="goBackButton">Go Back</button>
+        <h2 id="recipeTitle"></h2>
+        <p id="recipeDescription"></p>
+        <button id="showIngredientsButton">Show Ingredients</button>
+        <ul id="ingredientsList" style="display: none"></ul>
+        <p id="recipeInstructions"></p>
+      </section>
       <p id="loadingMessage" role="alert">Loading recipes...</p>
     </main>
     <footer>

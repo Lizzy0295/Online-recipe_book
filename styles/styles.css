@@ -130,6 +130,46 @@ footer p {
   margin: 0;
 }
 
+#recipeDetail {
+  display: block;
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border: 2px solid #d32f2f;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+  background-color: #d32f2f;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #ffd700;
+  color: #000;
+}
+
+ul {
+  padding-left: 20px;
+  display: none;
+}
+
+ul.show {
+  display: block;
+}
+
+#recipeDetail h3 {
+  margin-top: 20px;
+}
+
 @media (max-width: 600px) {
   #recipesContainer {
     grid-template-columns: 1fr;
